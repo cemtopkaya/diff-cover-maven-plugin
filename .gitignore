@@ -1,0 +1,3 @@
+**/target/*
+diff-cover-test/.diff-cover-plugin/
+diff-cover-test/target/diff-cover-test-1.0-SNAPSHOT.jar
